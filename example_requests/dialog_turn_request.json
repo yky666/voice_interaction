@@ -1,0 +1,8 @@
+{
+  "session_id": "demo-session-001",
+  "user_text": "小智，请挥挥手，然后简单介绍一下你自己",
+  "robot_joints": [0.0, 0.0, 0.0],
+  "metadata": {
+    "robot": "unitree_g1"
+  }
+}
